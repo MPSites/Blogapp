@@ -4,7 +4,10 @@
                     <div class="collapse navbar-collapse flex-center" id="navbarsExampleDefault">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="doc.php">Documentation</a>
+                                <a class="nav-link" href="doc.pdf" target="_blank">Documentation</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://github.com/MPSites/Blogapp" target="_blank">GitHub</a>
                             </li>
                         </ul>
                     </div>
