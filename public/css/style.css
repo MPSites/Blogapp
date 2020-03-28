@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.logo{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.tx-center{
+    text-align: center;
+}
+
+.no-mar{
+    margin:0;
+}
+
+.mar-buttom{
+    margin-bottom: 2rem;
+}
+
+.mr-buttom{
+    margin-bottom: 1em;
+}
+
+.flex-center{
+    justify-content: center;
+}
+
+.bl{
+    color: #007bff;
+}
+
+#heading-img{
+    background: url('../img/blog-front.jpg');
+    background-size: cover;
+    background-position-y: -4em;
+}
+
+.bd-placeholder-img{
+    background: url('../img/tumb.jpg') no-repeat;
+    background-size: cover;
+}
+
+
+.placeholder-img2{
+    background: url('../img/tumb2.jpg') no-repeat;
+    background-size: cover;
+}
+
+.placeholder-img3{
+    background: url('../img/tumb3.jpg') no-repeat;
+    background-size: cover;
+}
+
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+    margin-top: 10em;
+  }
+
+.blog-footer p:last-child {
+    margin-bottom: 0;
+}
+  
+
+.nav-pills li{
+    margin-left: 1em;
+    font-size: 1.5em;
+}
+
+.msg{
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.auto-mar{
+    margin-left: auto;
+    margin-right: auto;
+}
